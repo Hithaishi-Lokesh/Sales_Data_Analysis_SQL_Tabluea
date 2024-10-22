@@ -1,0 +1,20 @@
+Data Cleaning -
+
+1. Connecting MySQL with Tableau
+Setup: You will start by establishing a connection between Tableau and a MySQL database. This usually involves entering credentials like the database server address, username, and password.
+Data Import: Once connected, you can import tables or write SQL queries to pull specific data directly into Tableau.
+2. Data Cleaning and ETL
+ETL (Extract, Transform, Load): This process involves:
+Extract: Pulling data from the MySQL database.
+Transform: Cleaning and preparing the data for analysis.
+Load: Sending the cleaned data into Tableau for visualization.
+3. Data Cleaning Techniques
+Currency Normalization: Adjusting various currency formats into a consistent format, which is crucial for financial analysis. This might involve converting currencies based on current exchange rates or standardizing formatting (e.g., ensuring all currency values have the same number of decimal places).
+Handling Invalid Values: Identifying and correcting errors in the data, such as missing values, incorrect formats, or outliers. Techniques might include:
+Replacing null values with a default value or mean.
+Filtering out or flagging outlier data points.
+Correcting inconsistent data entries (e.g., different spellings or formats).
+4. Data Munging or Data Wrangling
+This term refers to the process of cleaning and transforming raw data into a format suitable for analysis. It includes all the steps mentioned above and is crucial for ensuring that the data is reliable and actionable.
+Conclusion
+The video will likely guide viewers through each of these steps, showcasing how to effectively prepare data for analysis in Tableau after pulling it from a MySQL database. This process is essential for generating accurate insights and visualizations.

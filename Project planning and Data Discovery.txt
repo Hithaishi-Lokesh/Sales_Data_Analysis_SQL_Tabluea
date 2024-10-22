@@ -1,0 +1,26 @@
+Purpose
+
+Project planning and Data Discovery:
+
+
+Purpose: To Unlock sales insights that are not visible before  for sales team for decision support and automate  them to reduced  manual  time spent  in data gathering.
+
+
+Aim's Grid Components:
+
+Purpose: Define the project's objectives.
+Stakeholders: Identify all parties involved, such as sales, IT, and data analysis teams.
+End Result: Specify what the project will deliver (e.g., a functional Tableau dashboard).
+Success Criteria: Establish metrics to measure project success (e.g., cost savings, time savings, sales increase).
+Team Roles:
+IT Team : Responsible for the software used for sales management.
+Data Analysts : Directly analyze data from the MySQL database to create dashboards.
+Data Engineers : Manage data infrastructure, particularly in larger projects involving a data warehouse.
+Data Systems:
+
+OLTP (Online Transaction Processing): The MySQL system for daily transactions.
+OLAP (Online Analytical Processing): The data warehouse, which is used for analysis and does not affect day-to-day operations if it goes down.
+ 
+Delve into the MySQL database and perform data analysis with SQL queries.
+
+ the narrator outlines a project planning approach using Aim's grid for a data analysis initiative the company, the sales director, recognizes the need for data-driven insights and convenes a meeting with key stakeholders, including the sales, IT, and data analysis teams. They define the project's purpose, identify stakeholders, outline the desired end result—a functional Tableau dashboard—and establish success criteria, such as cost savings and increased sales. The IT team, is responsible for the sales management software, while the Data Analysts, will analyze data from the MySQL database to create the dashboard. Additionally, Data Engineers, maintain the data infrastructure, particularly when a data warehouse is involved. OLTP (the operational database) and OLAP (the analytical data warehouse), emphasizing that the latter allows for effective data analysis without disrupting daily operations. 

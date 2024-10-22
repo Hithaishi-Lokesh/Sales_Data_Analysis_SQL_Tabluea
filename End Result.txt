@@ -1,0 +1,3 @@
+End Result:
+
+An Automated dashboard providing  quick and latest sales insights in order to support  data  driven decision making

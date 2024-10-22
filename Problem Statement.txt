@@ -1,0 +1,19 @@
+Problem Statement:
+
+the sales director of a hardware supply company, is experiencing declining sales across multiple regional offices. The current method of relying on regional managers to provide sales data through numerous Excel files has led to confusion and frustration. The data is often presented in a way that obscures the true performance of different regions, making it difficult for Bhavin to identify trends, strengths, and weaknesses.
+
+As a result, he lacks the actionable insights necessary to make informed business decisions. This inefficiency hampers his ability to respond to declining sales in specific areas and to allocate resources effectively. To address this challenge, the company needs a robust data visualization solution that consolidates real-time transactional data into intuitive dashboards. This will empower sales director to easily monitor sales performance, identify key metrics, and make data-driven decisions to reverse the sales decline and enhance overall business performance.
+
+Sales Decline: The company is experiencing a decline in sales across multiple regional offices.
+
+Ineffective Data Management: Regional managers provide data through numerous Excel files, leading to confusion and inefficiencies.
+
+Lack of Insights: Bhavin Patel lacks clear, actionable insights to understand regional performance and trends.
+
+Obscured Performance Metrics: Data is often presented in a way that obscures the true sales performance, making it difficult to identify strengths and weaknesses.
+
+Inefficient Decision-Making: Without accurate data, Bhavin struggles to make informed business decisions to address declining sales.
+
+Need for a Visualization Solution: The company requires a robust data visualization tool to consolidate real-time transactional data into intuitive dashboards.
+
+Empower Data-Driven Decisions: The solution should enable Bhavin to easily monitor sales performance, identify key metrics, and make informed decisions to reverse the sales decline.

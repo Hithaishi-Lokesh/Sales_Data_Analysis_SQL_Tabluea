@@ -1,0 +1,12 @@
+Stakeholders :
+
+sales director
+market team
+customer service team
+data analytics team
+IT (building and maintaining the software) responsible MySQL database management 
+datawarehouse - ETL ( store data and transform to structured data)
+data engineer - experts in maintaining the data infrastructure 
+otlp - critical system where day to day sales will be recorded
+olap - back to data
+

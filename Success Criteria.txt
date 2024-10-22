@@ -1,0 +1,5 @@
+Success Criteria :
+
+Dashboard uncovering  sales order insights with the latest  data available
+sales team  able to take better decision  and prove 10% cost saving of total spend 
+sales analyst stop gathering manually  in order to save	20%  of their business time and reinvest it in value added activity
